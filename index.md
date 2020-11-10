@@ -54,7 +54,7 @@ Korea University, Seoul, Korea
 
 
 ## Publications
-\\<!--
+
 `2020`
 
 Choi, W.S., Jung, Soonyoung., Chung, Jaehwa., **Hyun, Kyeong_seok.**, and Park, Kinam. "Scalable Algorithms for Maximizing Spatiotemporal Range Sum and Range Sum Change in Spatiotemporal Datasets." **[Electronics](https://www.mdpi.com/2079-9292/9/3/514)** 9.3 2020: 514. (indexed by SCIe)
@@ -64,7 +64,6 @@ Jang, H., **Hyun, Kyeong_seok**, Chung, J. et al. "Nearest base-neighbor search 
 
 `2017`
 Choi, W.S., Min, J., Lee, T., **Hyun, Kyeong_seok**, Lim, T., and Jung, S. "Deep Representation of Raw Traffic Data: An Embed-and-Aggregate Framework for High-Level Traffic Analysis." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2017. 1383-1390.
-
 
 
 ## Other Publications [in Korean]
@@ -78,7 +77,7 @@ Jang, H. J., Choi, W.S., **Hyun, Kyeong Seok**, Lim, T., Jung, S. Y., and Chung,
 Gromyko, D., Jang, H. J.,  Choi, W.S., **Hyun, Kyeong Seok**, Chung, J., and Jung, S. Y. (2015). The Method of Nearest Surrounder Query Processing in Three-Dimensional Space. In Proceedings of the Korea Information Processing Society Conference (pp. 1211-1214). Korea Information Processing Society.
 
 Jang, H. J., Choi, W.S., **Hyun, Kyeong Seok**, Jung, K. H., Jung, S. Y., Jeong, Y. S., and Chung, J. "Towards nearest collection search on spatial databases." Ubiquitous Information Technologies and Applications. Springer, Berlin, Heidelberg, 2014. 433-440. 
--->
+
 
 ## Projects
 
@@ -96,7 +95,7 @@ Jang, H. J., Choi, W.S., **Hyun, Kyeong Seok**, Jung, K. H., Jung, S. Y., Jeong,
 environmental risk map technology (Korea Environmental Industry and Technology
 Institute, 2015~ present)
         - [project link](http://intelligence.korea.ac.kr/seminar/on-going-research/2018/08/04/riskmap.html) 
-정민이형거 추가
+정민이형 프로젝트 추가
 
 
 <!-- ### Footer
