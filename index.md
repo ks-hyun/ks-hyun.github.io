@@ -43,9 +43,12 @@ Korea University, Seoul, Korea
 - T.A.
     - Pythopn Programming, Undergraduate School @ Korea National Open University, Korea
     - Database design and implementation, Undergraduate School @ Korea National Open University, Korea
+    - Database sytem, Graduate School @ Korea National Open University, Korea
+
     
 `2019` 
 - T.A.
+    - Database design and implementation, Undergraduate School @ Korea National Open University, Korea
     - Database System, Graduate School @ Korea National Open University, Korea
 
 `2013~2015`
