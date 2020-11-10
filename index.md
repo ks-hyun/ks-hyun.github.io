@@ -67,7 +67,7 @@ Choi, W.S., Min, J., Lee, T., **Hyun, Kyeong_seok**, Lim, T., and Jung, S. "Deep
 
 
 ## Other Publications [in Korean]
-
+`2014-2017`
 Choi, W.S., Min, J. H., Lim, T. H., **Hyun, Kyeong_seok**, Kim, M. S., and Jung, S. Y. "Performance Analysis of Branch and Bound Skyline Computation via Evaluation Function." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2017.
 
 Choi, W.S.,  **Hyun, Kyeong_seok**, Kim, J. Y., Jung, S., and Kim, J. "I/O Optimality and Performance Analysis of Branch and Bound Dynamic Skyline Query." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2015.
