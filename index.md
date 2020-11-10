@@ -56,27 +56,26 @@ Korea University, Seoul, Korea
 ## Publications
 
 `2020`
-
-Choi, W.S., Jung, Soonyoung., Chung, Jaehwa., **Hyun, Kyeong_seok.**, and Park, Kinam. "Scalable Algorithms for Maximizing Spatiotemporal Range Sum and Range Sum Change in Spatiotemporal Datasets." **[Electronics](https://www.mdpi.com/2079-9292/9/3/514)** 9.3 2020: 514. (indexed by SCIe)
+Choi, W.S., Jung, Soonyoung., Chung, Jaehwa., **Hyun, Kyeong-seok.**, and Park, Kinam. "Scalable Algorithms for Maximizing Spatiotemporal Range Sum and Range Sum Change in Spatiotemporal Datasets." **[Electronics](https://www.mdpi.com/2079-9292/9/3/514)** 9.3 2020: 514. (indexed by SCIe)
 
 `2019`
-Jang, H., **Hyun, Kyeong_seok**, Chung, J. et al. "Nearest base-neighbor search on spatial datasets". Knowl Inf Syst 62, 867–897 (2020). https://doi.org/10.1007/s10115-019-01360-3
+Jang, H., **Hyun, Kyeong-seok**, Chung, J. et al. "Nearest base-neighbor search on spatial datasets". Knowl Inf Syst 62, 867–897 (2020). https://doi.org/10.1007/s10115-019-01360-3
 
 `2017`
-Choi, W.S., Min, J., Lee, T., **Hyun, Kyeong_seok**, Lim, T., and Jung, S. "Deep Representation of Raw Traffic Data: An Embed-and-Aggregate Framework for High-Level Traffic Analysis." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2017. 1383-1390.
+Choi, W.S., Min, J., Lee, T., **Hyun, Kyeong-seok**, Lim, T., and Jung, S. "Deep Representation of Raw Traffic Data: An Embed-and-Aggregate Framework for High-Level Traffic Analysis." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2017. 1383-1390.
 
 
 ## Other Publications [in Korean]
 `2014-2017`
-Choi, W.S., Min, J. H., Lim, T. H., **Hyun, Kyeong_seok**, Kim, M. S., and Jung, S. Y. "Performance Analysis of Branch and Bound Skyline Computation via Evaluation Function." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2017.
+Choi, W.S., Min, J. H., Lim, T. H., **Hyun, Kyeong-seok**, Kim, M. S., and Jung, S. Y. "Performance Analysis of Branch and Bound Skyline Computation via Evaluation Function." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2017.
 
-Choi, W.S.,  **Hyun, Kyeong_seok**, Kim, J. Y., Jung, S., and Kim, J. "I/O Optimality and Performance Analysis of Branch and Bound Dynamic Skyline Query." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2015.
+Choi, W.S.,  **Hyun, Kyeong-seok**, Kim, J. Y., Jung, S., and Kim, J. "I/O Optimality and Performance Analysis of Branch and Bound Dynamic Skyline Query." Proceedings of the Korea Information Processing Society Conference. Korea Information Processing Society, 2015.
 
-Jang, H. J., Choi, W.S., **Hyun, Kyeong Seok**, Lim, T., Jung, S. Y., and Chung, J. "In-memory processing for nearest user-specified group search." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2015. 797-803.
+Jang, H. J., Choi, W.S., **Hyun, Kyeong-Seok**, Lim, T., Jung, S. Y., and Chung, J. "In-memory processing for nearest user-specified group search." Advances in Computer Science and Ubiquitous Computing. Springer, Singapore, 2015. 797-803.
 
-Gromyko, D., Jang, H. J.,  Choi, W.S., **Hyun, Kyeong Seok**, Chung, J., and Jung, S. Y. (2015). The Method of Nearest Surrounder Query Processing in Three-Dimensional Space. In Proceedings of the Korea Information Processing Society Conference (pp. 1211-1214). Korea Information Processing Society.
+Gromyko, D., Jang, H. J.,  Choi, W.S., **Hyun, Kyeong-Seok**, Chung, J., and Jung, S. Y. (2015). The Method of Nearest Surrounder Query Processing in Three-Dimensional Space. In Proceedings of the Korea Information Processing Society Conference (pp. 1211-1214). Korea Information Processing Society.
 
-Jang, H. J., Choi, W.S., **Hyun, Kyeong Seok**, Jung, K. H., Jung, S. Y., Jeong, Y. S., and Chung, J. "Towards nearest collection search on spatial databases." Ubiquitous Information Technologies and Applications. Springer, Berlin, Heidelberg, 2014. 433-440. 
+Jang, H. J., Choi, W.S., **Hyun, Kyeong-Seok**, Jung, K. H., Jung, S. Y., Jeong, Y. S., and Chung, J. "Towards nearest collection search on spatial databases." Ubiquitous Information Technologies and Applications. Springer, Berlin, Heidelberg, 2014. 433-440. 
 
 
 ## Projects
