@@ -14,9 +14,6 @@ title: Kyeong-Seok Hyun's CV
 ## Currently
 A Ph.D Candidate @ Department of Computer Science, Korea University
 
-### Specialized in
-
-
 
 ### Research interests
 
