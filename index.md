@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Woosung Choi's CV
+title: Kyeong-Seok Hyun's CV
 ---
-# Woosung Choi
+# Kyeong-Seok Hyun
 
 <div id="webaddress">
-<a href="ws_choi@korea.ac.kr">ws_choi AT kore.ac.kr</a>
-| <a href="http://intelligence.korea.ac.kr/members/wschoi/">My blog (kr/en) </a>
-| <a href="https://github.com/ws-choi">Github</a>
+<a href="ks_hyun@korea.ac.kr">ks_hyun AT kore.ac.kr</a>
+| <a href="http://intelligence.korea.ac.kr/members/kshyun/">My blog (kr/en) </a>
+| <a href="https://github.com/ks-hyun">Github</a>
 
 </div>
 
@@ -17,8 +17,9 @@ A Ph.D Candidate @ Department of Computer Science, Korea University
 
 ### Specialized in
 
+\\<!-- 
 [Singing Voice Separation](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS), [Conditioned Source Separation](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT), 
-
+-->
 
 ### Research interests
 
@@ -27,17 +28,17 @@ Machine Learning, Signal Processng, Artificial intelligence, and Database System
 ## Education
 
 `2009-2013`
-BSc Computer Science Education (3.5/4.0)
+BSc Computer Science Education (3.98/4.5)
 
 Korea University, Seoul, Korea
 
 `2013 - now`
-PhD Candidate Computer Science (3.9/4.0)
+PhD Candidate Computer Science (4.5/4.5)
 
 Korea University, Seoul, Korea
 
 ## Awards
-
+\\<!-- 
 `2019`
 - [Best Lecture Award](https://www.korea.ac.kr/cop/bestLecture/bestLectureList.do?siteId=university#) (Korea University)
     - Spring, 2019, [COSE371: Database](https://cose371.github.io/)
@@ -54,22 +55,19 @@ Korea University, Seoul, Korea
 
 `2009~2013`
 - National Science & Technology Scholarship (Fully funded), Supported by the Korea Student Aid Foundation (KOSAF) grant funded by the Korea government
+-->
 
 ## Work Experience
 
 `2020`
 - T.A.
-    - Deep Learning, Graduate School @ Korea National Open University, Korea
-
+    - Cloud Computing, Graduate School @ Korea National Open University, Korea
+    - Pythopn Programming, Undergraduate School @ Korea National Open University, Korea
+    - Database, Undergraduate School @ Korea National Open University, Korea
+    
 `2019` 
-- Lecturer
-    - Database(COSE371), Undergraduate school @ Korea University, Seoul, Korea
-    - Database Design and Implementation @ Korea National Open University, Korea (as an offline lecturer)
-    - Internet and Information Society @ Korea National Open University, Korea (as an offline lecturer)
-    - Database @ Korea National Open University, Korea (as an offline lecturer)
-
-`2016~2019`
-- Military service exempted technical research personnel @ Korea University, Seoul, Korea
+- T.A.
+    - Database System, Graduate School @ Korea National Open University, Korea
 
 `2013~2015`
 - T.A.
@@ -77,7 +75,7 @@ Korea University, Seoul, Korea
 
 
 ## Publications
-
+\\<!--
 `2020`
 
 **Choi, Woosung.**, Kim, Minseok., Chung, Jaehwa., and Jung, Soonyoung. "[LaSAFT](https://paperswithcode.com/paper/lasaft-latent-source-attentive-frequency): Latent Source Attentive Frequency Transformation for Conditioned Source Separation." arXiv preprint arXiv:2010.11631 (2020). ( [github](https://github.com/ws-choi/Conditioned-Source-Separation-LaSAFT), [demo](http://lasaft.github.io/), [colab](https://colab.research.google.com/github/ws-choi/Conditioned-Source-Separation-LaSAFT/blob/main/colab_demo/LaSAFT_with_GPoCM_Stella_Jang_Example.ipynb))
@@ -118,9 +116,10 @@ Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Lim, T., Jung, S. Y., and Chung, J
 Gromyko, D., Jang, H. J.,  **Choi, Woosung.**, Hyun, K. S., Chung, J., and Jung, S. Y. (2015). The Method of Nearest Surrounder Query Processing in Three-Dimensional Space. In Proceedings of the Korea Information Processing Society Conference (pp. 1211-1214). Korea Information Processing Society.
 
 Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y. S., and Chung, J. "Towards nearest collection search on spatial databases." Ubiquitous Information Technologies and Applications. Springer, Berlin, Heidelberg, 2014. 433-440. 
+-->
 
 ## Projects
-
+\\<!--
 - Principal Investigator: **Woosung Choi**, Korea University
     - Deep Attention Network-based Acoustic Source Separation (National Research Foundation of Korea, 2019~present)
 - Principal Investigator: Prof. Soonyoung Jung, Korea University
@@ -140,6 +139,7 @@ Jang, H. J., **Choi, Woosung.**, Hyun, K. S., Jung, K. H., Jung, S. Y., Jeong, Y
 environmental risk map technology (Korea Environmental Industry and Technology
 Institute, 2015~ 2020)
         - [project link](http://intelligence.korea.ac.kr/seminar/on-going-research/2018/08/04/riskmap.html) 
+-->
 
 <!-- ### Footer
 
