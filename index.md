@@ -12,7 +12,6 @@ title: Kyeong-Seok Hyun's CV
 </div>
 
 ## Currently
-
 A Ph.D Candidate @ Department of Computer Science, Korea University
 
 ### Specialized in
@@ -21,10 +20,10 @@ A Ph.D Candidate @ Department of Computer Science, Korea University
 
 ### Research interests
 
+
 Machine Learning, Signal Processng, Artificial intelligence, and Database Systems
 
 ## Education
-
 `2009-2013`
 BSc Computer Science Education (3.98/4.5)
 
@@ -38,7 +37,6 @@ Korea University, Seoul, Korea
 ## Awards
 
 ## Work Experience
-
 `2020`
 - T.A.
     - Pythopn Programming, Undergraduate School @ Korea National Open University, Korea
@@ -57,7 +55,6 @@ Korea University, Seoul, Korea
 
 
 ## Publications
-
 `2020`
 Choi, W.S., Jung, Soonyoung., Chung, Jaehwa., **Hyun, Kyeong-seok.**, and Park, Kinam. "Scalable Algorithms for Maximizing Spatiotemporal Range Sum and Range Sum Change in Spatiotemporal Datasets." **[Electronics](https://www.mdpi.com/2079-9292/9/3/514)** 9.3 2020: 514. (indexed by SCIe)
 
@@ -82,7 +79,6 @@ Jang, H. J., Choi, W.S., **Hyun, Kyeong-Seok**, Jung, K. H., Jung, S. Y., Jeong,
 
 
 ## Projects
-
 - Principal Investigator: Prof. Soonyoung Jung, Korea University
     - Research on Neural Network-based Spectrogram Transformation Block Applicable to Various Acoustic Signal Processing (National Research Foundation of Korea, 2020~ present))
         - [project link](http://intelligence.korea.ac.kr/news/on-going-research/2019/12/24/bss.html)
