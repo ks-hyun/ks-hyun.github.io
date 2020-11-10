@@ -31,8 +31,6 @@ PhD Candidate Computer Science (4.5/4.5)
 
 Korea University, Seoul, Korea
 
-## Awards
-
 ## Work Experience
 `2020`
 - Assistant Lecturer
